@@ -1,0 +1,16 @@
+.app__wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.app__attribution-wrapper {
+  position: absolute;
+  left: 5px;
+  bottom: 25px;
+  font-weight: bold;
+} 
+
+.app__attribution-image {
+  width: 200px;
+  height: auto;
+}
